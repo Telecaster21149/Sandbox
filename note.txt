@@ -4,3 +4,4 @@ third line
 feature-a line
 loop test line
 staged vs unstaged
+leave me unstaged
